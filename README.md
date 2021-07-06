@@ -13,7 +13,7 @@
     src="https://github-readme-stats.vercel.app/api?username=whchi&show_icons=true&theme=calm"
   />
 </p>
-<p align="center">
+<p>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
       alt=""
@@ -44,7 +44,7 @@
     />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
       alt=""
@@ -69,7 +69,7 @@
     />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
       alt=""
@@ -101,7 +101,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
       alt=""

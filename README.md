@@ -7,12 +7,12 @@
     <br />
   </samp>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img
     width="460"
     src="https://github-readme-stats.vercel.app/api?username=whchi&show_icons=true&theme=calm"
   />
-</p>
+</p> -->
 <p>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img

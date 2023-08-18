@@ -27,20 +27,14 @@
   </a>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
-      alt="javascript"
-      src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"
+      alt="python"
+      src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"
     />
   </a>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
       alt="Node.js"
       src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/whchi?tab=repositories" target="_blank"
-    ><img
-      alt="python"
-      src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"
     />
   </a>
 </p>
@@ -77,26 +71,20 @@
   /></a>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
-      alt="Vue.js"
-      src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/whchi?tab=repositories" target="_blank"
-    ><img
       alt="Laravel"
       src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"
     />
   </a>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
-      alt="Flask"
-      src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white"
+      alt="FastAPI"
+      src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"
     />
   </a>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
-      alt="FastAPI"
-      src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"
+      alt="Next.js"
+      src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"
     />
   </a>
 </p>
@@ -109,56 +97,20 @@
   /></a>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
-      alt="CentOS"
-      src="https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/whchi?tab=repositories" target="_blank"
-    ><img
-      alt="Ubuntu"
-      src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/whchi?tab=repositories" target="_blank"
-    ><img
-      alt="Alpine Linux"
-      src="https://img.shields.io/badge/-Alpine%20Linux-0D597F?style=flat-square&logo=Alpine%20Linux&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/whchi?tab=repositories" target="_blank"
-    ><img
       alt="Docker"
       src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"
     />
   </a>
-  <a href="https://github.com/whchi?tab=repositories" target="_blank"
+    <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
-      alt="Drone"
-      src="https://img.shields.io/badge/-Drone-212121?style=flat-square&logo=Drone&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/whchi?tab=repositories" target="_blank"
-    ><img
-      alt="Github Actions"
-      src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=Github%20Actions&logoColor=white"
+      alt="NGINX"
+      src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"
     />
   </a>
   <a href="https://github.com/whchi?tab=repositories" target="_blank"
     ><img
       alt="Kubernetes"
       src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/whchi?tab=repositories" target="_blank"
-    ><img
-      alt="Azure Devops"
-      src="https://img.shields.io/badge/-Azure%20Devops-0078D7?style=flat-square&logo=Azure%20Devops&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/whchi?tab=repositories" target="_blank"
-    ><img
-      alt="NGINX"
-      src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"
     />
   </a>
 </p>
